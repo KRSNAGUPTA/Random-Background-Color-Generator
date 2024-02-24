@@ -12,7 +12,8 @@ This React Native app generates random background colors with a simple tap. It u
 - JavaScript
 
 ## Screenshots
-![Screenshot](https://github.com/KRSNAGUPTA/Random-Background-Color-Generator/blob/0797e246f391194d1cc1fc863a9419d5914d36fe/RandomBgChanger%20SS1.png)
+<img src="https://github.com/KRSNAGUPTA/Random-Background-Color-Generator/blob/0797e246f391194d1cc1fc863a9419d5914d36fe/RandomBgChanger%20SS1.png" alt="Screenshot" width="300">
+
 
 
 ## Getting Started
